@@ -1,0 +1,1 @@
+worker: python FreeTV.py
